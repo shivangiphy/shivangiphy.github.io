@@ -1,7 +1,4 @@
-Shivangi Prasad
-==================
-
-Doctorate Student in Nuclear Physics @ University of Illinois at Urbana-Champaign
+Thanks for visiting my site ! A little bit about myself, I am pursuing doctoral degree in Nuclear Physics at University of Illinois at Urbana-Champaign. 
 
 [LinkedIn](https://www.linkedin.com/in/shivangiphy/) | [GitHub](https://github.com/shivangiphy) 
 
