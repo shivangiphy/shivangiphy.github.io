@@ -5,7 +5,7 @@ Doctorate Student in Nuclear Physics @ University of Illinois at Urbana-Champaig
 
 [LinkedIn](https://www.linkedin.com/in/shivangiphy/) | [GitHub](https://github.com/shivangiphy) 
 
-[![Resume](https://img.shields.io/badge/resume-Download-brightgreen?style=for-the-badge)](./assets/resume.pdf)
+[![Resume](https://img.shields.io/badge/resume-Download-blue?style=for-the-badge)](./assets/resume.pdf)
 
 ## [Projects](./assets/)
 * SeaQuest
