@@ -5,6 +5,15 @@ Thanks for visiting my site ! A little bit about myself, currently I am pursuing
 
 [![Resume](https://img.shields.io/badge/resume-Download-blue?style=for-the-badge)](./assets/resume.pdf)
 
-## [Projects](./assets/)
+## [Research Projects](./assets/)
 * SeaQuest
-* [Internship at RRI](./assets/sz_rri.pdf)
+* [Masters thesis](./assets/)
+* [Internship at Raman Research Institute](./assets/sz_rri.pdf)
+
+In addition to learning more about the fundamental nature of everything in the universe, I spend time cooking, gardening and solving/creating puzzles.
+
+## [Escape room lover](./assets/)
+
+## [Chef](./assets/)
+
+## [Gardener](./assets/)
