@@ -12,8 +12,8 @@ Thanks for visiting my site ! A little bit about myself, currently I am pursuing
 
 In addition to learning more about the fundamental nature of everything in the universe, I spend time cooking, gardening and solving/creating puzzles.
 
-## [Escape room lover](./assets/)
+## [Escape room lover]
 
-## [Cook](./assets/)
+## [Cook]
 
-## [Gardener](./assets/)
+## [Gardener]
