@@ -7,13 +7,13 @@ Thanks for visiting my site ! A little bit about myself, currently I am pursuing
 
 ## [Research Projects](./assets/)
 * SeaQuest
-* [Masters thesis](./assets/)
+* [Masters thesis](./assets/projectreport_MScThesis.pdf)
 * [Internship at Raman Research Institute](./assets/sz_rri.pdf)
 
 In addition to learning more about the fundamental nature of everything in the universe, I spend time cooking, gardening and solving/creating puzzles.
 
 ## [Escape room lover](./assets/)
 
-## [Chef](./assets/)
+## [Cook](./assets/)
 
 ## [Gardener](./assets/)
