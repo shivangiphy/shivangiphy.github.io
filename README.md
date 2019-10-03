@@ -3,7 +3,7 @@ Thanks for visiting my site ! A little bit about myself, currently I am pursuing
 
 [LinkedIn](https://www.linkedin.com/in/shivangiphy/) | [GitHub](https://github.com/shivangiphy) 
 
-[![Resume](https://img.shields.io/badge/resume-Download-green?style=for-the-badge)](./assets/resume.pdf)
+[![Resume](https://img.shields.io/badge/resume-Download-green?style=for-the-badge)](./assets/Shivangi_Prasad_Resume.pdf)
 
 # Research Projects
 * SeaQuest
