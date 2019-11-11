@@ -15,7 +15,7 @@ The first part of the assignment was to 'Illinify' the image, which was explaine
 The second part of the project was to put a spotlight on the image. What this means is to decrease the luminance (or brightness of the pixels) with increasing radial distance around a central pixel. In this case the luminance was decreased by 0.5% per pixel unit in euclidean distance with a maximum of 80% decrease.
 <img src="./assets/out-spotlight.png" width="400"> 
 The third part of the project required putting a watermark on the image. This requires the use of an overlay image as a stencil, to find out the pixels in the Alma image that intersects with overlay image where the luminance is 1. The luminance of such pixels in original image were increased by 0.2 (witha maximum allowed value upto 1)
-<img src="./assets/overlay.png" width="370"> | <img src="./assets/out-watermark.png" width="390">
+<img src="./assets/alma.png" width="390">|<img src="./assets/out-watermark.png" width="390">
 
 
 * [Masters thesis](./assets/projectreport_MScThesis.pdf)
