@@ -7,7 +7,7 @@ Thanks for visiting my site ! A little bit about myself, I am currently a gradua
 [![Resume](https://img.shields.io/badge/resume-Download-green?style=for-the-badge)](./assets/Shivangi_Prasad_Resume.pdf)
 
 # Projects
-* Image Transform
+* Image Transform project (CS400):
 This project was a part of the final week assignment of an online course on Coursera on [Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1) taught by Prof. Ulmschneider from department of computer science at UIUC. It is such a well designed course for people from all background who are interested in understanding the essential componenets of a C++ code. 
 The goal of this project was to transform the given image by changing the Hue, Saturation or Luminance of the pixel. The given image is of our Alma Mater.
 ![alma](./assets/alma.png)
