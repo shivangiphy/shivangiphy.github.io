@@ -6,8 +6,18 @@ Thanks for visiting my site ! A little bit about myself, I am currently a gradua
 
 [![Resume](https://img.shields.io/badge/resume-Download-green?style=for-the-badge)](./assets/Shivangi_Prasad_Resume.pdf)
 
-# Research Projects
-* SeaQuest
+# Projects
+* Image Transform
+This project was a part of the final week assignment of an online course on Coursera on [Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1) taught by Prof. Ulmschneider from department of computer science at UIUC. It is such a well designed course for people from all background who are interested in understanding the essential componenets of a C++ code. 
+The goal of this project was to transform the given image by changing the Hue, Saturation or Luminance of the pixel. The given image is of our Alma Mater.
+[!alma](./assets/alma.png)
+The first part of the assignment was to 'Illinify' the image, which was explained as follows. Hue itself refers to the color itself. The color range is defined in between 0 and 360. The hue of each pixel should be set to either 'Illini orange' which as a hue of 11 or 'Illini Blue' which has a hue of 216, depending on which value the current value of hue is closer to. 
+![illinify](./assets/out-illinify.png)
+The second part of the project was to put a spotlight on the image. What this means is to decrease the luminance (or brightness of the pixels) with increasing radial distance around a central pixel. In this case the luminance was decreased by 0.5% per pixel unit in euclidean distance with a maximum of 80% decrease.
+![spotlight](./assets/out-spotlight.png)
+The third part of the project required putting a watermark on the image. This requires the use of an overlay image as a stencil, to find out the pixels in the Alma image that intersects with overlay image where the luminance is 1. The luminance of such pixels in original image were increased by 0.2 (witha maximum allowed value upto 1)
+![watermark](./assets/out-watermark.png)
+
 * [Masters thesis](./assets/projectreport_MScThesis.pdf)
 * [Internship at Raman Research Institute](./assets/sz_rri.pdf)
 
