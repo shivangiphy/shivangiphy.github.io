@@ -12,6 +12,7 @@ This project was a part of the final week assignment of an online course on Cour
 The goal of this project was to transform the given image by changing the Hue, Saturation or Luminance of the pixel. The given image is of our Alma Mater.
 ![alma](./assets/alma.png)
 The first part of the assignment was to 'Illinify' the image, which was explained as follows. Hue itself refers to the color itself. The color range is defined in between 0 and 360. The hue of each pixel should be set to either 'Illini orange' which as a hue of 11 or 'Illini Blue' which has a hue of 216, depending on which value the current value of hue is closer to. 
+| <img src="./assets/alma.png" width="250"> | <img src="./assets/out-illinify.png" width="250"> | 
 ![illinify](./assets/out-illinify.png)
 The second part of the project was to put a spotlight on the image. What this means is to decrease the luminance (or brightness of the pixels) with increasing radial distance around a central pixel. In this case the luminance was decreased by 0.5% per pixel unit in euclidean distance with a maximum of 80% decrease.
 ![spotlight](./assets/out-spotlight.png)
