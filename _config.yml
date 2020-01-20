@@ -19,8 +19,8 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
 
-
-social_links:
-  github: shivangiphy
-  linkedin: shivangiphy
-  twitter: shivangiphy
+minima: 
+  social_links:
+    github: shivangiphy
+    linkedin: shivangiphy
+    twitter: shivangiphy
