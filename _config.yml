@@ -5,7 +5,7 @@ description: Personal website
 use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: UA-156524889-1
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
