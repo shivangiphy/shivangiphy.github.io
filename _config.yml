@@ -20,7 +20,7 @@ kramdown:
   syntax_highlighter: rouge
 
 
-social:
+social_links:
   github: shivangiphy
   linkedin: shivangiphy
   twitter: shivangiphy
