@@ -13,6 +13,7 @@ There are 3 data files that are available:
   * List of university towns from wikipedia.
   * Housing data from Zillow containg information about house sale prices in each month from the year 1996 to 2016.
   * GDP over time data from Department of commerce.
+
 ## Analysis
 
 [Jupyter notebook](https://nbviewer.jupyter.org/github/shivangiphy/Hypothesis_testing_Python_DataScience/blob/master/week4/Statistical%20Analysis%20%28Housing%20data%29.ipynb)
