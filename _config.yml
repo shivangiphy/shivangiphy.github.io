@@ -8,7 +8,8 @@ use_math: true
 google_analytics: UA-156524889-1
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+#theme: minima
+remote_theme: pmarsceill/just-the-docs
 
 highlighter: rouge
 markdown: kramdown
