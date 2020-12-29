@@ -1,6 +1,9 @@
 ---
-layout: post
-title: Image Transformations in C++
+title: 'Image Transformations in C++'
+date: 2019-11-20
+excerpt_separator: <!--more-->
+tags:
+
 ---
 
 1. TOC
