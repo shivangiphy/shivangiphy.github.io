@@ -84,10 +84,10 @@ analytics:
 author:
   name             : "Shivangi Prasad"
   avatar           : "/assets/profile_pic.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Graduate student, Medium Energy Physics"
+  location         : "Jersey City, NJ"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/schhp?hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
