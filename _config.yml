@@ -1,5 +1,5 @@
-#remote_theme: academicpages/academicpages.github.io 
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+remote_theme: academicpages/academicpages.github.io 
+#remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 # Welcome to Jekyll!
 #
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Shivangi Prasad"
-  avatar           : "/images/profile_pic.jpg" #"profile_pic.png"
+  avatar           : "profile_pic.png" #"/images/profile_pic.jpg"
   bio              : "Graduate student, Medium Energy Physics"
   location         : "Jersey City, NJ"
   employer         :
