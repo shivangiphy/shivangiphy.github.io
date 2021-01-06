@@ -1,6 +1,7 @@
 ---
 title: 'Image Transformations in C++'
 date: 2019-11-20
+permalink: /posts/2019/11/image-transformations/
 excerpt_separator: <!--more-->
 tags:
 
