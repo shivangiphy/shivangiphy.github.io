@@ -211,6 +211,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-include-cache
+  - jekyll-archives
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -236,6 +237,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+post_archive:
+  type: liquid
+  path: /posts/  
+
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
