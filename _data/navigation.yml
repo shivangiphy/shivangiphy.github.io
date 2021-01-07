@@ -1,10 +1,20 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
     
   - title: "Research"
     url: /research/
+    
+  - title: "Posts"
+    url: /posts/
+    
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "CV"
+    url: /cv/
+   
+  - title: "Hobbies"
+    url: /hobbies/
 
   - title: "Updates"
     url: /updates/
@@ -15,8 +25,3 @@ main:
   # - title: "Software"
   #   url: /software/
 
-  - title: "Posts"
-    url: /posts/
-    
-  - title: "CV"
-    url: /cv/
