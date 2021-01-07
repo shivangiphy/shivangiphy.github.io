@@ -1,7 +1,7 @@
 ---
 title: 'Pneumonia detection from chest X-Rays using deep neural networks'
 date: 2019-11-20
-permalink: /posts/2019/11/healthML/
+permalink: /posts/2019/11/pneumonia-detection/
 #excerpt_separator: <!--more-->
 tags:
 toc: true
