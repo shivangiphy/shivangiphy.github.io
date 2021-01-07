@@ -1,0 +1,21 @@
+#remote_theme: academicpages/academicpages.github.io 
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-include-cache
+  - jekyll-archives
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
