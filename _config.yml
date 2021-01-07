@@ -78,7 +78,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-156524889-1"
 
 
 # Site Author
@@ -124,7 +124,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _posts
   - files
 exclude:
   - "*.sublime-project"
@@ -186,9 +185,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
-    permalink: /:collection/:path/
-  posts:
     output: true
     permalink: /:collection/:path/
 
