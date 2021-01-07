@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: archive
 title: Updates
+permalink: /updates/
 ---
 
 * 2019-04-08 - [Work from our FermiLab SeqQuest collaboration was presented at Deep-Inelastic-Scattering Conference (April 8-12) in Italy](https://npl.illinois.edu/news/story.asp?id=30736). 

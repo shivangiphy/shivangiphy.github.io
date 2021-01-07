@@ -64,7 +64,6 @@ _site/
 .jekyll-metadata
 
 # Extra
-
 .DS_Store
 .ruby-version
 Gemfile.lock
