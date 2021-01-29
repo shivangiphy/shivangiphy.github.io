@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc-M.Sc in Physics, Institute of Technology Kharagpur 2007-2012
+* Ph.D in Nuclear Physics, University of Illinois at Urbana-Champaign, 2012-2020 
 
 Work experience
 ======
