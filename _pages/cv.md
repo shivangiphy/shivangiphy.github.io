@@ -42,11 +42,9 @@ Projects
   * Joint work with Sudhanshu Mishra and Shubhanshu Mishra
   * Used fine-tuning of multi-lingual transformer neural network with joint training training on different languages and joint labelling of multiple tasks.
   * Our approach came 2nd and 4th in 2 sub-tasks and 3rd in 4 of the 6 sub-tasks.
-  * Trained Models available at huggingface.co/socialmediaie·
   * Code:  github.com/socialmediaie/TRAC2020
   
 * Hate Speech Identification
-  * Joint work with Sudhanshu Mishra and Shubhanshu Mishra
   * Used fine-tuning of multi-lingual transformer neural networks, multi-task models and Back Translation.
   * Published in the Proceedings of the 11th annual meeting of the Forum for Information Retrieval Evaluation.
   * Extension of this work has been submitted to “Springer Nature Computer Science” journal.
@@ -61,9 +59,9 @@ Publications
   
 Talks
 ======
-* Title: [Probing the parton structure in nucleon and nuclei at SeaQuest] (https://www.grc.org/photonuclear-reactions-conference/2018/)
+* Title: [Probing the parton structure in nucleon and nuclei at SeaQuest](https://www.grc.org/photonuclear-reactions-conference/2018/)
   * Gordon Research Conference, Holderness, New Hampshire, Aug 2018.
-* Title: [Dark Photon Search with Drell-Yan-Like Process] (https://ui.adsabs.harvard.edu/abs/2015APS..DNP.ND002P/abstract)
+* Title: [Dark Photon Search with Drell-Yan-Like Process](https://ui.adsabs.harvard.edu/abs/2015APS..DNP.ND002P/abstract)
   * American Physics Society (Division of Nuclear Physics), Santa Fe, New Mexico, Oct 2015
   
 Teaching
