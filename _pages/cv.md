@@ -61,9 +61,10 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Title: [Probing the parton structure in nucleon and nuclei at SeaQuest] (https://www.grc.org/photonuclear-reactions-conference/2018/)
+  * Gordon Research Conference, Holderness, New Hampshire, Aug 2018.
+* Title: [Dark Photon Search with Drell-Yan-Like Process] (https://ui.adsabs.harvard.edu/abs/2015APS..DNP.ND002P/abstract)
+  * American Physics Society (Division of Nuclear Physics), Santa Fe, New Mexico, Oct 2015
   
 Teaching
 ======
