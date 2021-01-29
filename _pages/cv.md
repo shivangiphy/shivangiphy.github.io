@@ -71,3 +71,14 @@ Teaching
 * Summer 2013: PHYS 213 (Thermal Physics)
 * Spring 2014: PHYS 575 (Particle Physics)
 
+Awards 
+=======
+* 2018, Puzzle Bang 2nd runner-up, Reflection & Projections, University of Illinois at Urbana-Champaign
+* 2017, Felix T. Adler prize, University of Illinois at Urbana-Champaign
+* 2012, Institute Silver medal, IIT Kharagpur
+* 2012, Department gold medal, IIT Kharagpur
+* 2012, Sharmila Bose memorial prize, IIT Kharagpur
+* 2012, H.N. Bose memorial prize, IIT Kharagpur
+* 2008-12, Inspire Scholarship, Department of Science & Technology, Govt. of India
+
+
