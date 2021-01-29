@@ -26,7 +26,7 @@ Research experience
   * Utilized FORTRAN 90 codebase to conduct simulations for understanding the hydrodynamics of giant molecular clouds (acknowledged in the group’s publication)
   
 * Research Intern, Raman Reserach Institute, Bangalore
-  * Implemented MATLAB code to replicate findings of an astrophysics research paper on non-thermal Sunyaev–Zel'dovich effect in clusters of galaxie.
+  * Implemented MATLAB code to replicate findings of an astrophysics research paper on non-thermal Sunyaev–Zel'dovich effect in clusters of galaxies.
   
 Projects
 ======
@@ -50,7 +50,7 @@ Projects
   * Used fine-tuning of multi-lingual transformer neural networks, multi-task models and Back Translation.
   * Published in the Proceedings of the 11th annual meeting of the Forum for Information Retrieval Evaluation.
   * Extension of this work has been submitted to “Springer Nature Computer Science” journal.
-  * Code:  github.com/socialmediaie/MTML_HateSpeech
+  * Code:  [github.com/socialmediaie/MTML_HateSpeech]
  
 
 Publications
