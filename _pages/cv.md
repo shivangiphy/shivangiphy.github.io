@@ -59,17 +59,15 @@ Publications
   
 Talks
 ======
-* Title: [Probing the parton structure in nucleon and nuclei at SeaQuest](https://www.grc.org/photonuclear-reactions-conference/2018/)
+* [Probing the parton structure in nucleon and nuclei at SeaQuest](https://www.grc.org/photonuclear-reactions-conference/2018/)
   * Gordon Research Conference, Holderness, New Hampshire, Aug 2018.
-* Title: [Dark Photon Search with Drell-Yan-Like Process](https://ui.adsabs.harvard.edu/abs/2015APS..DNP.ND002P/abstract)
+* [Dark Photon Search with Drell-Yan-Like Process](https://ui.adsabs.harvard.edu/abs/2015APS..DNP.ND002P/abstract)
   * American Physics Society (Division of Nuclear Physics), Santa Fe, New Mexico, Oct 2015
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Fall 2012: PHYS 212 (Electricity and Magnetism) 
+* Spring 2013: PHYS 212 (Electricity and Magnetism)
+* Summer 2013: PHYS 213 (Thermal Physics)
+* Spring 2014: PHYS 575 (Particle Physics)
+
