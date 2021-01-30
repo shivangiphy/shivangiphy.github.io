@@ -1,6 +1,6 @@
 ---
 title: Statistical analysis in Python
-tags:
+tags: projects
 ---
 
 
