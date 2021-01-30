@@ -190,6 +190,10 @@ collections:
   posts:
     output: true
     permalink: /:collection/:year/:month/:title/
+  hobbies:
+    output: true
+    permalink: /:collection/:year/:month/:title/
+
 
 
 # Sass/SCSS
