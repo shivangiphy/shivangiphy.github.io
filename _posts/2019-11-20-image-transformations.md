@@ -1,6 +1,6 @@
 ---
 title: 'Image Transformations in C++'
-tags:
+tags: projects
 ---
 
 1. TOC
