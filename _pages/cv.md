@@ -93,7 +93,7 @@ Machine learning side projects
 
 ML side projects publications
 ======
-  <ul>{% for post in site.publications_ml %}
+  <ul>{% for post in site.publications-ml %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
