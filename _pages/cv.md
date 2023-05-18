@@ -91,4 +91,10 @@ Machine learning side projects
   * Extension of this work has been submitted to “Springer Nature Computer Science” journal.
   * Code:  [github.com/socialmediaie/MTML_HateSpeech]
 
+ML side projects publications
+======
+  <ul>{% for post in site.publications_ml %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 
