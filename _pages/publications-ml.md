@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications ML"
-permalink: /publications_ml/
+permalink: /publications-ml/
 author_profile: true
 ---
 
@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications_ml reversed %}
+{% for post in site.publications-ml reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
