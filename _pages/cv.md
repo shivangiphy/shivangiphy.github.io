@@ -63,6 +63,8 @@ Awards
 =======
 * 2018, Puzzle Bang 2nd runner-up, Reflection & Projections, University of Illinois at Urbana-Champaign
 * 2017, Felix T. Adler prize, University of Illinois at Urbana-Champaign
+* 2013, Excellent TA (PHYs 212), University of Illinois at Urbana-Champaign
+* 2012, Excellent TA (PHYs 212), University of Illinois at Urbana-Champaign
 * 2012, Institute Silver medal, IIT Kharagpur
 * 2012, Department gold medal, IIT Kharagpur
 * 2012, Sharmila Bose memorial prize, IIT Kharagpur
