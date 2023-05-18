@@ -59,8 +59,16 @@ Publications
   
 Talks
 ======
+* [Recent results from near-threshold JPsi photoproduction measurement from Hall-C JPsi007 experiment](https://indico.jlab.org/event/667/contributions/12308/)
+  * 10th workshop of the APS Topical Group on Hadronic Physics, Minneapolis, Minnesota, Apr 2023
+* [Recent results from near-threshold JPsi photoproduction measurement from Hall-C JPsi007 experiment](https://indico.cern.ch/event/1199314/contributions/5189841/)
+  * DIS2023: XXX International Workshop on Deep-Inelastic Scattering and Related Subjects, East Lansing, Michigan, Mar 2023
+* [SoLid JPsi Physics and gluonic form factors](https://indico.jlab.org/event/602/)
+  * Winter Hall A Collaboration Meeting, Newport News, Virginia, Jan 2023
+* [Near-threshold JPsi photoproduction measurement from Hall-C JPsi 007 experiment](https://meetings.aps.org/Meeting/DNP22/Session/KC.6)
+  * American Physics Society (Division of Nuclear Physics), New Orleans, Louisiana, Oct 2022
 * [Probing the nucleon structure using Drell-Yan process at SeaQuest](https://meetings.aps.org/Meeting/DNP21/Session/EA.2)
-  * American Physics Society (Division of Nuclear Physics), Boston, Massachusetts, Oct 2021
+  * Invited talk, American Physics Society (Division of Nuclear Physics), Boston, Massachusetts, Oct 2021
 * [Probing the parton structure in nucleon and nuclei at SeaQuest](https://www.grc.org/photonuclear-reactions-conference/2018/)
   * Gordon Research Conference, Holderness, New Hampshire, Aug 2018.
 * [Dark Photon Search with Drell-Yan-Like Process](https://ui.adsabs.harvard.edu/abs/2015APS..DNP.ND002P/abstract)
