@@ -28,7 +28,7 @@ Research experience
 * Research Intern, Raman Reserach Institute, Bangalore
   * Implemented MATLAB code to replicate findings of an astrophysics research paper on non-thermal Sunyaev–Zel'dovich effect in clusters of galaxies.
   
-Projects
+Machine learning side projects
 ======
 * Pneumonia detection from chest x-rays using Convolutional Neural Networks
   * Processed NIH chest x-ray dataset of dicom x-ray files and radiological report attributes.
